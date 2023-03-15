@@ -1,0 +1,23 @@
+#fto{
+    float: left;
+    width: 12%;
+}
+#tit{
+    display: inline-block;
+    align-content: center;
+    border: double;
+    border-color: lightcoral;
+    text-align: center;
+    font-style:initial;
+    background-color: snow;
+}
+#marmas{
+    float:right;
+    display:inline-block;
+    width: 75%;
+    height: 550px;
+    margin: 12px;
+}
+li{
+    font-size: 18px;
+}

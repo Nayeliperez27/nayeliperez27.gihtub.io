@@ -1,0 +1,38 @@
+#logo1{
+    display: inline-block;
+    width: 8%;
+    float: left;
+}
+#logo2{
+    display: inline-block;
+    width: 10%;
+    float: right;
+}
+#titulotexto{
+    display: inline-block;
+    width: 70%;                                        
+    text-align: center;
+}
+#barranav{
+    clear: both;
+}
+.menu{
+    display: inline-block;
+    width:10%;
+    margin: 12px;
+    background-color: bisque;
+    border: solid pink;
+    text-align: center;
+}
+#marco{
+    width:96%;
+    height: 600px;
+    padding: 24px;
+    background-color: azure;
+    border:solid pink;
+}
+#pie{
+    border: solid pink;
+    background-color: azure;
+    text-align: center;
+}

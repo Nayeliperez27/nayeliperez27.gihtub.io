@@ -1,0 +1,20 @@
+h1{
+   align-content: center;
+    border: double;
+    border-color:lightcoral;
+    text-align: center;
+    font-style:initial;
+    background-color: lightcyan;
+    }
+h2{
+    font-family:cursive;
+    color: firebrick;
+}
+h3{
+    font-family: cursive;
+    color:firebrick;
+}
+p{
+    font-size: 18px;
+    color: midnightblue;
+}

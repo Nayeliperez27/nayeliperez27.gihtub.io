@@ -1,0 +1,18 @@
+#tit1{
+    align-content: center;
+    border: double;
+    border-color: lightcoral;
+    text-align: center;
+    font-style:initial;
+    background-color: snow;
+}
+.tit2{
+    text-align: center;
+    font-style: oblique;
+    color: lightblue;
+}
+p{
+    font-size: 18px;
+    color: midnightblue;
+    text-align:justify;
+}

@@ -1,0 +1,27 @@
+#tit1{
+    background-color: lavender;
+    text-align: center;
+    font-style: initial;
+    color: firebrick;
+    border: pink double;
+}
+.tit2{
+    color: lightblue;
+    text-align: justify;
+    font-size: 18px;
+}
+p{
+    color: midnightblue;
+    font-size: 18px;
+}
+div{
+    float: left;
+    width: 50%;
+}
+figure{
+    display: inline-block;
+    float: right;
+    border: double;
+    border-color:blueviolet;
+    padding: 5px;
+}
